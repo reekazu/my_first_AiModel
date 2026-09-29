@@ -1,0 +1,21 @@
+streamlit>=1.35
+pandas>=2.0
+openpyxl>=3.1
+pdfplumber>=0.11
+pytesseract>=0.3.10
+Pillow>=10.0
+
+# Кроме pip-пакетов, нужны системные утилиты (не ставятся через pip):
+#   - poppler-utils (даёт команду pdftoppm, используется для рендера PDF в картинку)
+#   - tesseract-ocr + языковой пакет rus (само распознавание текста)
+#
+# Ubuntu/Debian:
+#   sudo apt-get install poppler-utils tesseract-ocr tesseract-ocr-rus
+#
+# macOS (Homebrew):
+#   brew install poppler tesseract tesseract-lang
+#
+# Windows:
+#   ставится инсталлятором Tesseract (UB-Mannheim build) с выбором
+#   русского языка при установке; poppler — отдельным архивом,
+#   путь к его bin/ нужно добавить в PATH.
