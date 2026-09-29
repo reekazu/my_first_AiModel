@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "60e2123bf1958364",
+    "type": "split",
+    "children": [
+      {
+        "id": "13c13d551802c58e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80edc98aa3063adc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Бухгалтерия-актСверки.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Бухгалтерия-актСверки"
+            }
+          },
+          {
+            "id": "a6395868ce4e3a9e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Бухгалтерия-актСверки.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Бухгалтерия-актСверки"
+            }
+          },
+          {
+            "id": "ba2732b3117a3bdb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Бухгалтерия-актСверки.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Бухгалтерия-актСверки"
+            }
+          },
+          {
+            "id": "00ec7af1f8e5433c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Веб приложение с ИИ.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Веб приложение с ИИ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43b698edf9557943",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad42132f866a111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14710fc7a5602766",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "25995fba32a9b74e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "6efbfe5691dafbc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e46c9f8cc8d2a8a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed96787f78334580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42216d8b9a670b9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Бухгалтерия-актСверки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "2281f0106be29b3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Бухгалтерия-актСверки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "39ed799151f3aaca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "fb5c6cc93b0795cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "ccdd6fe04bd7d1ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Бухгалтерия-актСверки.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+    }
+  },
+  "active": "80edc98aa3063adc",
+  "lastOpenFiles": [
+    "Excalidraw/Веб приложение с ИИ.md",
+    "Excalidraw/Бухгалтерия-актСверки.md",
+    "Excalidraw/Drawing 2026-09-29 08.12.48.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-29 08.12.23.excalidraw.md",
+    "Бухгалтерия.md",
+    "Добро пожаловать.md",
+    "Excalidraw",
+    "Без названия.base"
+  ]
+}
